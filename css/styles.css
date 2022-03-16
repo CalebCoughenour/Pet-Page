@@ -1,0 +1,8 @@
+h1 {
+  text-align: center;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
